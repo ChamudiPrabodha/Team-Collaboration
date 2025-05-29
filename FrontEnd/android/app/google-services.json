@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056609215323",
+    "project_id": "organicfarming3-f95bc",
+    "storage_bucket": "organicfarming3-f95bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056609215323:android:f8409869025eebc8f6707e",
+        "android_client_info": {
+          "package_name": "com.example.govi_arana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwWM-jQZe7k3fLn-TAqhqcGF1U4ku9AS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
